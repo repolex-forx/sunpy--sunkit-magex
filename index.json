@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunkit-magex",
+  "versions": [
+    {
+      "commit": "963ebfc121d5e8438c3dbbdd22f90791856cf933",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:51:29.612330+00:00"
+    }
+  ]
+}
